@@ -10,7 +10,7 @@ Pour utiliser ce projet et exécuter le notebook Jupyter ``projet_Time_series.ip
 
 2.  **Obtention des Données :**
     * Le projet nécessite le fichier ``features_1st_test.csv``.
-    * **Vous devez télécharger ce fichier depuis: *<https://github.com/YasserIADS/RUL_bearing_time_series/blob/main/data/features_1st_test.csv)>_
+    * **Vous devez télécharger ce fichier depuis: *<https://github.com/YasserIADS/RUL_bearing_time_series/blob/main/data/features_1st_test.csv>_
 
 3.  **Chargement des Données dans Google Colab :**
     * Si vous exécutez dans Google Colab :
