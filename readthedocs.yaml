@@ -12,12 +12,12 @@ build:
 
 # Configuration for Sphinx
 sphinx:
-  configuration: docs/conf.py  # Path to your Sphinx conf.py file
+  configuration: documents/conf.py  # Path to your Sphinx conf.py file
 
 
 python:
   install:
-    - requirements: docs/requirements.txt
+    - requirements: documents/requirements.txt
 
 formats:
   - htmlzip
