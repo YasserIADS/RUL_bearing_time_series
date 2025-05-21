@@ -23,8 +23,6 @@ L’objectif principal de ce projet est de développer une approche combinée po
 | `notebook.ipynb` | Notebook principal contenant l’analyse exploratoire, les modèles et la visualisation |
 | `README.md` | Ce fichier |
 | `data/` | Dossier attendu contenant les fichiers CSV de séries temporelles |
-| `models/` | (optionnel) Sauvegardes des modèles entraînés |
-| `plots/` | (optionnel) Graphiques générés |
 
 ---
 
